@@ -16,3 +16,13 @@ C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\static
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
