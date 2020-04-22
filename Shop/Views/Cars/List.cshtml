@@ -1,0 +1,22 @@
+﻿
+
+
+@{
+    Layout = "_Layout";
+}
+
+
+    <h1>All avtomobiles</h1>
+    <h3>@Model.CurrentCategory</h3>
+    @{ 
+        foreach (var car in Model.AllCars)
+        {
+            <div>
+                <h2>Model: @car.Name</h2>
+                <p>Cena: @car.Price.ToString("c")</p>
+            </div>
+        }
+    }
+
+
+
