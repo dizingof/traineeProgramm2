@@ -97,8 +97,6 @@ C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\ru\Mic
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
@@ -112,3 +110,5 @@ C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.V
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache

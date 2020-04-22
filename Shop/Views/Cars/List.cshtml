@@ -1,22 +1,20 @@
 ﻿
+<h1>All cars</h1>
+<h3>@Model.CurrentCategory</h3>
+<div class="row mt-5 mb-2">
 
-
-@{
-    Layout = "_Layout";
-}
-
-
-    <h1>All avtomobiles</h1>
-    <h3>@Model.CurrentCategory</h3>
     @{ 
         foreach (var car in Model.AllCars)
         {
-            <div>
-                <h2>Model: @car.Name</h2>
+            <div class="col-lg-4">
+                <img class="img-thumbnail" src="@car.Img" alt="@car.Name" />
+                <h2>@car.Name</h2>
+                <p>@car.ShortDescription</p>
                 <p>Cena: @car.Price.ToString("c")</p>
+                <p><a class="btn btn-warning" href="#">Podrobnee</a></p>
             </div>
         }
     }
 
-
+</div>
 
