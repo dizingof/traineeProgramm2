@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Shop.Data.Interfaces;
+using Shop.Data.Models;
 using Shop.ViewModels;
 using System;
 using System.Collections.Generic;
@@ -18,13 +19,42 @@ namespace Shop.Controllers
             allCars = iAllCars;
             allCategories = iCarsCat;
         }
-        public ViewResult List()
+        [Route("Cars/List")]
+        [Route("Cars/List/{category}")]
+        public ViewResult List(string category)
         {
+            string Category = category;
+            IEnumerable<Car> cars = null;
+            string currentCategory = "";
+            if (string.IsNullOrEmpty(category))
+            {
+                cars = allCars.Cars.OrderBy(i => i.Id);
+
+            }
+            else
+            {
+                if(string.Equals("electro", category, StringComparison.OrdinalIgnoreCase))
+                {
+                    cars = allCars.Cars.Where(i => i.Category.CategoryName.Equals("ElektroCars")).OrderBy(i => i.Id);
+                    currentCategory = "ElektroCars";
+                }
+                else if (string.Equals("fuel", category, StringComparison.OrdinalIgnoreCase))
+                {
+                    cars = allCars.Cars.Where(i => i.Category.CategoryName.Equals("Classik cars")).OrderBy(i => i.Id);
+                    currentCategory = "Classik cars";
+                }
+               
+                            
+            }
+            var carObj = new CarsListViewModel
+            {
+                AllCars = cars,
+                CurrentCategory = currentCategory
+            };
+
             ViewBag.Title = "Stranica s avtomobilyami";
-            CarsListViewModel obj = new CarsListViewModel();
-            obj.AllCars = allCars.Cars;
-            obj.CurrentCategory = "Automobili";
-            return View(obj);
+            
+            return View(carObj);
         }
     }
 }
