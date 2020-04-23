@@ -148,3 +148,4 @@ C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.c
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs

@@ -27,7 +27,7 @@ namespace Shop.Data.Models
             session.SetString("CartId", shopCartId);
             return new ShopCart(context) { ShopCartId = shopCartId };
         }
-        public void AddToCart(Car car)
+        public void addToCart(Car car)
         {
             appDBContent.ShopCartItem.Add(new ShopCartItem
             {

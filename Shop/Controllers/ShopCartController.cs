@@ -34,7 +34,7 @@ namespace Shop.Controllers
             var item = CarRep.Cars.FirstOrDefault(i => i.Id == id);
             if (item != null)
             {
-                ShopCart.AddToCart(item);
+                ShopCart.addToCart(item);
             }
             return RedirectToAction("Index");
         }

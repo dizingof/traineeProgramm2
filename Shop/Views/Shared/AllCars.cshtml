@@ -5,5 +5,5 @@
     <h2>@Model.Name</h2>
     <p>@Model.ShortDescription</p>
     <p>Cena: @Model.Price.ToString("c")</p>
-    <p><a class="btn btn-warning" href="#">Podrobnee</a></p>
+    <p><a class="btn btn-warning" asp-controller="ShopCart" asp-action="addToCart" asp-route-Id="@Model.Id">Добавить в корзину</a></p>
 </div>
