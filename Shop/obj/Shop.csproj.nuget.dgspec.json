@@ -38,15 +38,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "JSON": {
-              "target": "Package",
-              "version": "[1.0.1, )"
-            },
-            "Microsoft.AspNet.Mvc": {
-              "target": "Package",
-              "version": "[5.2.7, )"
-            },
             "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
               "version": "[2.2.0, )"
             },

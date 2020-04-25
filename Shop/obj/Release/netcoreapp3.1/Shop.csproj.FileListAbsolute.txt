@@ -10,13 +10,6 @@ C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Shop
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Shop.pdb
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Shop.Views.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Shop.Views.pdb
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Json.dll
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\System.Web.Razor.dll
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -51,7 +44,6 @@ C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Micr
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
@@ -123,8 +115,6 @@ C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\runt
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.csprojAssemblyReference.cache
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
@@ -145,8 +135,13 @@ C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.Views.pdb
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.csproj.CopyComplete
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
-C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.pdb
 C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\Repos\traineeProgramm2\Shop\obj\Release\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
