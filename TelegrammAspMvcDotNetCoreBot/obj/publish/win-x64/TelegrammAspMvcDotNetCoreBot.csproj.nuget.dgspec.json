@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Roman\\source\\Repos\\traineeProgramm2\\TelegrammAspMvcDotNetCoreBot\\TelegrammAspMvcDotNetCoreBot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Roman\\source\\Repos\\traineeProgramm2\\TelegrammAspMvcDotNetCoreBot\\TelegrammAspMvcDotNetCoreBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roman\\source\\Repos\\traineeProgramm2\\TelegrammAspMvcDotNetCoreBot\\TelegrammAspMvcDotNetCoreBot.csproj",
+        "projectName": "TelegrammAspMvcDotNetCoreBot",
+        "projectPath": "C:\\Users\\Roman\\source\\Repos\\traineeProgramm2\\TelegrammAspMvcDotNetCoreBot\\TelegrammAspMvcDotNetCoreBot.csproj",
+        "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roman\\source\\Repos\\traineeProgramm2\\TelegrammAspMvcDotNetCoreBot\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[15.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

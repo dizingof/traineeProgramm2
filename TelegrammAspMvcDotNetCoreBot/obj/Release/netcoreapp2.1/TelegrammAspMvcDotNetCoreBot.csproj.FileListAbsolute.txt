@@ -15,3 +15,4 @@ C:\Users\Roman\source\Repos\traineeProgramm2\TelegrammAspMvcDotNetCoreBot\obj\Re
 C:\Users\Roman\source\Repos\traineeProgramm2\TelegrammAspMvcDotNetCoreBot\obj\Release\netcoreapp2.1\TelegrammAspMvcDotNetCoreBot.dll
 C:\Users\Roman\source\Repos\traineeProgramm2\TelegrammAspMvcDotNetCoreBot\obj\Release\netcoreapp2.1\TelegrammAspMvcDotNetCoreBot.pdb
 C:\Users\Roman\source\Repos\traineeProgramm2\TelegrammAspMvcDotNetCoreBot\obj\Release\netcoreapp2.1\TelegrammAspMvcDotNetCoreBot.genruntimeconfig.cache
+C:\Users\Roman\source\Repos\traineeProgramm2\TelegrammAspMvcDotNetCoreBot\obj\Release\netcoreapp2.1\TelegrammAspMvcDotNetCoreBot.csprojAssemblyReference.cache
