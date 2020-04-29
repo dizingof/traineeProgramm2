@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop", "Shop\Shop.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraningApp", "TraningApp\TraningApp.csproj", "{A856E67C-7748-4ED0-9DDD-AA247FC5D363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegrammAspMvcDotNetCoreBot", "TelegrammAspMvcDotNetCoreBot\TelegrammAspMvcDotNetCoreBot.csproj", "{9F125EC1-0BE8-4441-B2C6-2D56B21CCA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{64570495-67FD-4B52-A142-4DD8631F8D20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A856E67C-7748-4ED0-9DDD-AA247FC5D363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A856E67C-7748-4ED0-9DDD-AA247FC5D363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A856E67C-7748-4ED0-9DDD-AA247FC5D363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F125EC1-0BE8-4441-B2C6-2D56B21CCA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F125EC1-0BE8-4441-B2C6-2D56B21CCA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F125EC1-0BE8-4441-B2C6-2D56B21CCA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F125EC1-0BE8-4441-B2C6-2D56B21CCA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64570495-67FD-4B52-A142-4DD8631F8D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64570495-67FD-4B52-A142-4DD8631F8D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64570495-67FD-4B52-A142-4DD8631F8D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64570495-67FD-4B52-A142-4DD8631F8D20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
