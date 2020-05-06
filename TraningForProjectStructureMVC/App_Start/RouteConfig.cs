@@ -15,7 +15,7 @@ namespace TraningForProjectStructureMVC
 
             routes.MapRoute(
                name: "DefaultQwerty",
-               url: "1{controller}/qwerty{action}/{id}",
+               url: "1/{controller}/{action}/{id}",
                defaults: new { controller = "Test", action = "CustomAction", id = UrlParameter.Optional }
            );
             routes.MapRoute(
