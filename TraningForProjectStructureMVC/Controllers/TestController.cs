@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using TraningForProjectStructureMVC.Filters;
 
 namespace TraningForProjectStructureMVC.Controllers
 {
@@ -13,6 +14,7 @@ namespace TraningForProjectStructureMVC.Controllers
         {
             return View();
         }
+        [MyAuthAttribute]
         public ActionResult CustomAction()
         {
             ViewBag.Message = "Your Test page.";
